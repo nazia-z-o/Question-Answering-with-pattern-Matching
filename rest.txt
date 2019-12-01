@@ -1,0 +1,79 @@
+?
+factoid q plz:
+Why the condition of Kopotakko train is so bad?
+how does the co ordnation among trains crossing the same railline done?
+How can I get the exact location of a train at any time?
+Have you bought your ticket?
+Give me list of trains of Shrimangal
+Which services does BR provide? (Local/International/Both)
+Is ticket available from khulna to Rangpu?
+How many seats are available in any defined train?
+
+
+ok: yes no ans
+Is there a train from Khulna to Rajshahi?
+Is BR making profit? (Yes/No)
+Do i need to show the printed copy of an e-ticket? is softcopy enough?
+Is there any new train which runs without stopping in area from dhaka to khulna?
+Is train available at night to go to Dhaka-Khulna?  
+If any train is delayed, is it give any message before half an hour?
+Can i book any ticket?'no
+Is there any train from khulna to Chattagra?
+
+
+
+do:
+Which is considered as the main railway station of BD?
+When the Bangladesh Railways introduced in Bangladesh?
+Who is the present rail minister in Bangladesh ?
+Is Bangladesh Railway service costly?
+Who is the current minister of Bangladesh Railway (BR)?
+What is the next station? X por
+Is there any facility of booking ticket online?
+Do i know how long it takes time to reach any Platform?
+How many slot of job for station master?
+Which railway station is the largest station?
+
+
+
+total:
+How many trains are there from khulna to rajshahi?
+How many districts does BR cover?
+how many junctions are there in the route of Dhaka to Khulna?
+How many train for Dhaka-Khulna route?
+Hw many trains in first hour from dhaka to chittagon?
+Per day how many trains are available from dhaka to chittagong?
+How many trains depart from Rajshahi station?
+5 ta ticker er mullo.koto
+How many trains are there from khulna to dhaka?
+
+
+kotokhon lagbe?
+How long does it take for Sonar Bangla train to reach Chittagong from Dhaka?
+What is the time of Dhaka-Khulna last trip? (usual ta e dibe)
+
+
+check
+dhka theke rajshahi jawar train ki!
+kopotakkho train kokhn jossor theke khulna jai?
+
+
+test
+When does Sundarban Express leave for Dhaka from Khulna?
+Is there AC in train?
+What are the time of the trains leaving khulna towards dhaka?
+What is the approaching time at the next station?
+Fair of Shimanto AC to Rajshahi?
+When the trani will arrive?
+How many trains are there from khulna to dhaka?
+Give me the time of starting of Rupsha?
+Is Chitra express (Khulna-Dhaka) train available on Mondays?
+What is the schedule from dhaka to khulna?
+When train 'Tista' will arrive?
+What is the departing time of the train?
+What is the price of each seat of train Chitra AC?
+How much I will have to pay for a AC chair?
+How many hours it takes traveling from DHK-CTG using Chattrala Express?
+How much is the fare for AC berth tickets in Sundarban express train?
+What is the seat fare of AC chair in shuborno express?
+What approximate time the train Chitra will take to reach Khulna?
